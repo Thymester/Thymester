@@ -8,5 +8,3 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thymester&theme=tokyonight" />
 </a>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L3DGFV3)
