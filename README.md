@@ -1,7 +1,7 @@
 ### About me!
 
-- How to reach me: Volodymyr Zelenskyy#1337 - On Discord
-- Studies: I'm studying for my Cybersecurity degree!
+- How to reach me: agony8602 - On Discord
+- Studies: I'm studying for my Computer Engineering & Cybersecurity double major!
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thymester&theme=tokyonight&layout=compact" />
 </a>
