@@ -1,7 +1,7 @@
 ### About me!
 
 - How to reach me: agony8602 - On Discord
-- Studies: I'm studying for my Computer Engineering & Cybersecurity double major!
+- Studies: I'm studying for my IT-Web Software Developer
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thymester&theme=tokyonight&layout=compact" />
 </a>
