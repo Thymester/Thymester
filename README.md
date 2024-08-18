@@ -2,8 +2,9 @@
 
 - How to reach me: agony8602 - On Discord
 - Studies: I'm studying for my IT-Computer Programming/Engeering degree
-
+<a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thymester)](https://github.com/thymester/github-readme-stats)
+</a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thymester&theme=dracula&layout=compact" />
 </a>
